@@ -1,4 +1,4 @@
-# Gen AI Chatbot
+# Gen AI Chatbot -- Using MakerSuit API
 
 ## Step-1 
 Create a New folder and open vs code in it and open terminal and write
