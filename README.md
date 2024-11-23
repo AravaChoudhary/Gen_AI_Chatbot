@@ -35,14 +35,3 @@ create a .gitginore file and
 venv/
 .env 
 put all the files and folder here which you do not want to push on github.
-
-## Step-6
-Go to Github and create a new repository and fill repository name
-and write commands on the terminal of our vs code 
-
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/githubusername/pce_bot.git
-git push -u origin main
